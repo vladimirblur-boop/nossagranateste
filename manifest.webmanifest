@@ -1,7 +1,7 @@
 {
   "name": "Nossa Grana — Controle Financeiro Familiar",
   "short_name": "Nossa Grana",
-  "description": "Controle financeiro gratuito para pessoas e famílias",
+  "description": "Controle financeiro familiar com login e sincronização experimental de lançamentos",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
